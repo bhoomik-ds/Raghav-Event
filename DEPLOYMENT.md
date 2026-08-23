@@ -10,7 +10,7 @@ The project deploys as two services:
 Set this environment variable for the Vercel project:
 
 ```text
-VITE_API_URL=https://<your-render-service>.onrender.com/
+VITE_API_URL=https://raghav-event.onrender.com
 ```
 
 The existing `client/vercel.json` keeps React Router routes working on refresh.
