@@ -24,7 +24,7 @@ NODE_ENV=production
 MONGODB_URI=<your-mongodb-connection-string>
 DB_NAME=RaghavEvents
 JWT_SECRET=<long-random-secret>
-FRONTEND_URL=https://<your-vercel-domain>
+FRONTEND_URL=https://raghavevents.vercel.app
 RAZORPAY_KEY_ID=<your-razorpay-key-id>
 RAZORPAY_KEY_SECRET=<your-razorpay-key-secret>
 ```
