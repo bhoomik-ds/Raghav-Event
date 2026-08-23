@@ -1,0 +1,235 @@
+[
+  {
+    "_id": "junagadh-grand-garba-mahotsav",
+    "title": "Grand Junagadh Garba Mahotsav 2026",
+    "category": "Garba",
+    "rating": 4.9,
+    "votes": "3.8K",
+    "interested": "12.4K",
+    "tags": ["Navratri", "Live Garba", "Junagadh", "Satyam Party Plot"],
+    "about": "Experience Gujarat's royal festive spirit at Junagadh's biggest Navratri celebration! 10 unforgettable nights with live folk artists, traditional orchestra, and authentic raas.",
+    "highlights": [
+      "10 Nights of Live Folk & Dhol (11 - 20 October)",
+      "Satyam Party Plot, Zanzarda Chokdi, Junagadh",
+      "VIP & Family Lounges with Food Court",
+      "Authentic Traditional Garba Beats"
+    ],
+    "date": "2026-10-11T19:00:00.000Z",
+    "time": "7:00 PM onwards",
+    "duration": "10 Nights (11 - 20 October)",
+    "venue": {
+      "name": "Satyam Party Plot",
+      "city": "Junagadh",
+      "address": "Satyam Party Plot, Zanzarda Chokdi, Junagadh, Gujarat"
+    },
+    "organizer": "Raghav Events Junagadh",
+    "ageLimit": "All ages",
+    "priceRange": "₹1,499 - ₹7,499",
+    "originalPrice": "₹9,999",
+    "bannerImage": "/images/background.png",
+    "galleryImages": ["/images/background.png", "/images/background.png"],
+    "ticketTypes": [
+      {
+        "_id": "pass-family",
+        "name": "Family Pass",
+        "price": 7499,
+        "totalSeats": 600,
+        "availableSeats": 600,
+        "soldCount": 0,
+        "description": "4 Person Max • Full entry pass for 4 family members"
+      },
+      {
+        "_id": "pass-couple",
+        "name": "Couple Pass",
+        "price": 3999,
+        "totalSeats": 900,
+        "availableSeats": 900,
+        "soldCount": 0,
+        "description": "1 Male & 1 Female Only • Exclusive couple entry"
+      },
+      {
+        "_id": "pass-children",
+        "name": "Children Pass",
+        "price": 1499,
+        "totalSeats": 500,
+        "availableSeats": 500,
+        "soldCount": 0,
+        "description": "5 to 12 years Only • Special children entry pass"
+      }
+    ]
+  },
+  {
+    "_id": "dandiya-night-junagadh",
+    "title": "Dandiya Under The Stars - Junagadh",
+    "category": "Dandiya",
+    "rating": 4.8,
+    "votes": "2.1K",
+    "interested": "8.9K",
+    "tags": ["Dandiya", "Live Band", "Junagadh", "Satyam Party Plot"],
+    "about": "A high-energy Dandiya celebration under illuminated open skies at Satyam Party Plot, Zanzarda Chokdi, featuring high-tempo orchestra and live percussionists.",
+    "highlights": [
+      "Live Dandiya Symphony & Dhol",
+      "Spacious dance floor with state-of-the-art acoustics",
+      "Celebrity guest appearances & best dressed awards"
+    ],
+    "date": "2026-10-14T19:30:00.000Z",
+    "time": "7:30 PM onwards",
+    "duration": "5 hours",
+    "venue": {
+      "name": "Satyam Party Plot",
+      "city": "Junagadh",
+      "address": "Satyam Party Plot, Zanzarda Chokdi, Junagadh, Gujarat"
+    },
+    "organizer": "Raghav Events Junagadh",
+    "ageLimit": "All ages",
+    "priceRange": "₹1,499 - ₹7,499",
+    "originalPrice": "₹8,999",
+    "bannerImage": "/images/background.png",
+    "galleryImages": ["/images/background.png"],
+    "ticketTypes": [
+      {
+        "_id": "pass-family",
+        "name": "Family Pass",
+        "price": 7499,
+        "totalSeats": 400,
+        "availableSeats": 400,
+        "soldCount": 0,
+        "description": "4 Person Max • Full entry pass for 4 family members"
+      },
+      {
+        "_id": "pass-couple",
+        "name": "Couple Pass",
+        "price": 3999,
+        "totalSeats": 600,
+        "availableSeats": 600,
+        "soldCount": 0,
+        "description": "1 Male & 1 Female Only • Exclusive couple entry"
+      },
+      {
+        "_id": "pass-children",
+        "name": "Children Pass",
+        "price": 1499,
+        "totalSeats": 350,
+        "availableSeats": 350,
+        "soldCount": 0,
+        "description": "5 to 12 years Only • Special children entry pass"
+      }
+    ]
+  },
+  {
+    "_id": "heritage-raas-junagadh",
+    "title": "Junagadh Heritage Raas Mahotsav",
+    "category": "Traditional",
+    "rating": 4.9,
+    "votes": "1.9K",
+    "interested": "6.7K",
+    "tags": ["Traditional", "Saurashtra Raas", "Junagadh", "Family"],
+    "about": "Celebrate Saurashtra’s rich cultural heritage and traditional Tal Garbi with authentic dhol rhythms and graceful folk dancers at Satyam Party Plot.",
+    "highlights": [
+      "Authentic Saurashtra Folk Raas",
+      "Auspicious Aarti and cultural celebrations",
+      "Family friendly festive arena with dedicated seating"
+    ],
+    "date": "2026-10-17T19:00:00.000Z",
+    "time": "7:00 PM onwards",
+    "duration": "5 hours",
+    "venue": {
+      "name": "Satyam Party Plot",
+      "city": "Junagadh",
+      "address": "Satyam Party Plot, Zanzarda Chokdi, Junagadh, Gujarat"
+    },
+    "organizer": "Raghav Events Junagadh",
+    "ageLimit": "All ages",
+    "priceRange": "₹1,499 - ₹7,499",
+    "originalPrice": "₹8,999",
+    "bannerImage": "/images/background.png",
+    "galleryImages": ["/images/background.png"],
+    "ticketTypes": [
+      {
+        "_id": "pass-family",
+        "name": "Family Pass",
+        "price": 7499,
+        "totalSeats": 500,
+        "availableSeats": 500,
+        "soldCount": 0,
+        "description": "4 Person Max • Full entry pass for 4 family members"
+      },
+      {
+        "_id": "pass-couple",
+        "name": "Couple Pass",
+        "price": 3999,
+        "totalSeats": 700,
+        "availableSeats": 700,
+        "soldCount": 0,
+        "description": "1 Male & 1 Female Only • Exclusive couple entry"
+      },
+      {
+        "_id": "pass-children",
+        "name": "Children Pass",
+        "price": 1499,
+        "totalSeats": 400,
+        "availableSeats": 400,
+        "soldCount": 0,
+        "description": "5 to 12 years Only • Special children entry pass"
+      }
+    ]
+  },
+  {
+    "_id": "maha-finale-junagadh",
+    "title": "Maha Finale Garba Night - Junagadh",
+    "category": "Garba",
+    "rating": 5.0,
+    "votes": "4.2K",
+    "interested": "15.8K",
+    "tags": ["Maha Finale", "Sharad Purnima", "Junagadh", "Grand Raas"],
+    "about": "The grand finale night of Navratri 2026 at Satyam Party Plot, Zanzarda Chokdi. Celebrate the climax night with 10,000+ dancers, mega lighting, and celebrity orchestras.",
+    "highlights": [
+      "Grand Climax Finale Night (20 October)",
+      "Celebrity Orchestra & Mega Light Show",
+      "Grand Prize Ceremonies for Best Garba Dancers"
+    ],
+    "date": "2026-10-20T19:00:00.000Z",
+    "time": "7:00 PM onwards",
+    "duration": "6 hours",
+    "venue": {
+      "name": "Satyam Party Plot",
+      "city": "Junagadh",
+      "address": "Satyam Party Plot, Zanzarda Chokdi, Junagadh, Gujarat"
+    },
+    "organizer": "Raghav Events Junagadh",
+    "ageLimit": "All ages",
+    "priceRange": "₹1,499 - ₹7,499",
+    "originalPrice": "₹9,999",
+    "bannerImage": "/images/background.png",
+    "galleryImages": ["/images/background.png"],
+    "ticketTypes": [
+      {
+        "_id": "pass-family",
+        "name": "Family Pass",
+        "price": 7499,
+        "totalSeats": 700,
+        "availableSeats": 700,
+        "soldCount": 0,
+        "description": "4 Person Max • Full entry pass for 4 family members"
+      },
+      {
+        "_id": "pass-couple",
+        "name": "Couple Pass",
+        "price": 3999,
+        "totalSeats": 1000,
+        "availableSeats": 1000,
+        "soldCount": 0,
+        "description": "1 Male & 1 Female Only • Exclusive couple entry"
+      },
+      {
+        "_id": "pass-children",
+        "name": "Children Pass",
+        "price": 1499,
+        "totalSeats": 600,
+        "availableSeats": 600,
+        "soldCount": 0,
+        "description": "5 to 12 years Only • Special children entry pass"
+      }
+    ]
+  }
+]
