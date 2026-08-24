@@ -5,11 +5,9 @@ import { ShieldCheck, MapPin, Calendar, Ticket } from "lucide-react";
 const Footer = () => {
   return (
     <footer className="bg-[#1E1E24] text-white/80 border-t border-white/10 pb-20 sm:pb-12">
-      
       {/* Main Footer Links */}
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-10 sm:py-14">
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-8">
-          
           {/* Brand Column */}
           <div className="sm:col-span-2 space-y-3">
             <Link to="/" className="flex items-center gap-2.5">
@@ -28,7 +26,9 @@ const Footer = () => {
               </span>
             </Link>
             <p className="text-xs text-white/70 leading-relaxed max-w-sm">
-              Official ticketing and season passes for Junagadh Navratri Mahotsav 2026 at Satyam Party Plot, Zanzarda Chokdi (11-20 October).
+              Official ticketing and season passes for Junagadh Navratri
+              Mahotsav 2026 at Satyam Party Plot, Zanzarda Chokdi (11-20
+              October).
             </p>
             <div className="flex items-center gap-2 text-xs text-[#E5C384] font-semibold pt-1">
               <ShieldCheck size={14} className="text-[#C9A96E]" />
@@ -43,17 +43,26 @@ const Footer = () => {
             </h3>
             <ul className="space-y-2.5 text-xs font-medium">
               <li>
-                <Link to="/TicketBooking?pass=Family%20Pass" className="hover:text-white transition block py-0.5">
+                <Link
+                  to="/TicketBooking?pass=Family%20Pass"
+                  className="hover:text-white transition block py-0.5"
+                >
                   Family Pass (₹7,499)
                 </Link>
               </li>
               <li>
-                <Link to="/TicketBooking?pass=Couple%20Pass" className="hover:text-white transition block py-0.5">
-                  Couple Pass (₹3,999)
+                <Link
+                  to="/TicketBooking?pass=Couple%20Pass"
+                  className="hover:text-white transition block py-0.5"
+                >
+                  Couple Pass (₹10)
                 </Link>
               </li>
               <li>
-                <Link to="/TicketBooking?pass=Children%20Pass" className="hover:text-white transition block py-0.5">
+                <Link
+                  to="/TicketBooking?pass=Children%20Pass"
+                  className="hover:text-white transition block py-0.5"
+                >
                   Children Pass (₹1,499)
                 </Link>
               </li>
@@ -92,23 +101,31 @@ const Footer = () => {
             </h3>
             <ul className="space-y-2.5 text-xs font-medium">
               <li>
-                <Link to="/my-tickets" className="hover:text-white transition block py-0.5">
+                <Link
+                  to="/my-tickets"
+                  className="hover:text-white transition block py-0.5"
+                >
                   View Bookings
                 </Link>
               </li>
               <li>
-                <Link to="/signin" className="hover:text-white transition block py-0.5">
+                <Link
+                  to="/signin"
+                  className="hover:text-white transition block py-0.5"
+                >
                   Attendee Login
                 </Link>
               </li>
               <li>
-                <a href="#faq" className="hover:text-white transition block py-0.5">
+                <a
+                  href="#faq"
+                  className="hover:text-white transition block py-0.5"
+                >
                   FAQs &amp; Guidelines
                 </a>
               </li>
             </ul>
           </div>
-
         </div>
 
         {/* Bottom Bar */}

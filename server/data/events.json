@@ -41,7 +41,7 @@
       {
         "_id": "pass-couple",
         "name": "Couple Pass",
-        "price": 3999,
+        "price": 10,
         "totalSeats": 900,
         "availableSeats": 900,
         "soldCount": 0,
@@ -99,7 +99,7 @@
       {
         "_id": "pass-couple",
         "name": "Couple Pass",
-        "price": 3999,
+        "price": 10,
         "totalSeats": 600,
         "availableSeats": 600,
         "soldCount": 0,
@@ -157,7 +157,7 @@
       {
         "_id": "pass-couple",
         "name": "Couple Pass",
-        "price": 3999,
+        "price": 10,
         "totalSeats": 700,
         "availableSeats": 700,
         "soldCount": 0,
@@ -215,7 +215,7 @@
       {
         "_id": "pass-couple",
         "name": "Couple Pass",
-        "price": 3999,
+        "price": 10,
         "totalSeats": 1000,
         "availableSeats": 1000,
         "soldCount": 0,

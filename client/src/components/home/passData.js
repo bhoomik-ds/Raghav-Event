@@ -24,8 +24,8 @@ export const PASS_DATA = [
   {
     id: "couple-pass",
     name: "Couple Pass",
-    price: 3999,
-    formattedPrice: "₹3,999",
+    price: 10,
+    formattedPrice: "₹10",
     tagline: "1 Male & 1 Female Only",
     badge: "Trending Choice",
     icon: Heart,

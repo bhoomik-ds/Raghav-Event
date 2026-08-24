@@ -64,7 +64,7 @@ const AdminDashboard = () => {
       },
       {
         name: "Couple Pass",
-        price: 3999,
+        price: 10,
         totalSeats: 800,
         description: "1 Male & Female Only",
       },
