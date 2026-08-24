@@ -296,6 +296,28 @@ const seedEvents = async () => {
   }
 };
 
+const migrateCouplePassPrice = async () => {
+  try {
+    const result = await Event.updateMany(
+      {
+        ticketTypes: {
+          $elemMatch: { name: "Couple Pass", price: { $ne: 10 } },
+        },
+      },
+      { $set: { "ticketTypes.$[ticket].price": 10 } },
+      { arrayFilters: [{ "ticket.name": "Couple Pass" }] },
+    );
+
+    if (result.modifiedCount > 0) {
+      console.log(
+        `Updated Couple Pass price in ${result.modifiedCount} event(s)`,
+      );
+    }
+  } catch (error) {
+    console.log("Couple Pass price migration check:", error.message);
+  }
+};
+
 const seedAdmin = async () => {
   if (!process.env.ADMIN_EMAIL || !process.env.ADMIN_PASSWORD) return;
   try {
@@ -333,6 +355,7 @@ const start = async () => {
     validateProductionConfig();
     await connectDatabase();
     await seedEvents();
+    await migrateCouplePassPrice();
     await seedAdmin();
     app.listen(PORT, () =>
       console.log(`🚀 Raghav Events Ticket Server running on port ${PORT}`),
